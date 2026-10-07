@@ -1,0 +1,9 @@
+body { 
+    background-color: #f4f4f4; 
+    color: #540462;
+}
+
+pre, code {
+  background-color: ghostwhite !important;
+  color: black;
+}
